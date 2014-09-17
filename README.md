@@ -1,6 +1,12 @@
 # Foundation Gulp Starter
 
-## Includes
+## Features
+
+- Zurb Foundation
+- Tooling from the Google Web Starter Kit
+  - Gulp for building
+  - Bower for package management
+  - Browsersync for browser refreshing and more
 
 ## Requirements
 
